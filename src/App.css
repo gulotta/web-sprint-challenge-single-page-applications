@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  width: 100%;
+  height: auto
+}
+
+.PizzaForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.toppings {
+  display: flex;
+  flex-direction: column;
+}
+
